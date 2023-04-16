@@ -3,6 +3,10 @@
 # MSIT NOTES SERVER
 </div>
 
+## About
+- This is the backend server made on Express.js for the MSIT NOTES website.
+- It performs basic operations such as fetching files, uploading files and other basic utilities.
+
 ## Purpose of Our Website  
 
 - We envisioned a website to help the students of MSIT with the academic material collection.
